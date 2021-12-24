@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GoeaTechEval",
+			"Path": "C:\\Users\\natha\\Desktop\\Homework\\GoeaTechnicalEvaluation_ThirdPerson\\GoeaTechnicalEvaluation_ThirdPerson\\GoeaTechEval\\Source\\GoeaTechEval.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GoeaTechEvalEditor",
+			"Path": "C:\\Users\\natha\\Desktop\\Homework\\GoeaTechnicalEvaluation_ThirdPerson\\GoeaTechnicalEvaluation_ThirdPerson\\GoeaTechEval\\Source\\GoeaTechEvalEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

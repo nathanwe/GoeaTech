@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-GoeaTechEval.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\natha\Desktop\Homework\GoeaTechnicalEvaluation_ThirdPerson\GoeaTechnicalEvaluation_ThirdPerson\GoeaTechEval\Intermediate\Build\Win64\GoeaTechEvalEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\natha\Desktop\Homework\GoeaTechnicalEvaluation_ThirdPerson\GoeaTechnicalEvaluation_ThirdPerson\GoeaTechEval\Intermediate\Build\Win64\UE4Editor\Development\GoeaTechEval\GoeaTechEval.cpp.obj"
+"C:\Users\natha\Desktop\Homework\GoeaTechnicalEvaluation_ThirdPerson\GoeaTechnicalEvaluation_ThirdPerson\GoeaTechEval\Intermediate\Build\Win64\UE4Editor\Development\GoeaTechEval\GoeaTechEvalCharacter.cpp.obj"
+"C:\Users\natha\Desktop\Homework\GoeaTechnicalEvaluation_ThirdPerson\GoeaTechnicalEvaluation_ThirdPerson\GoeaTechEval\Intermediate\Build\Win64\UE4Editor\Development\GoeaTechEval\GoeaTechEvalGameMode.cpp.obj"
+"C:\Users\natha\Desktop\Homework\GoeaTechnicalEvaluation_ThirdPerson\GoeaTechnicalEvaluation_ThirdPerson\GoeaTechEval\Intermediate\Build\Win64\UE4Editor\Development\GoeaTechEval\GoeaTechEval.init.gen.cpp.obj"
+"C:\Users\natha\Desktop\Homework\GoeaTechnicalEvaluation_ThirdPerson\GoeaTechnicalEvaluation_ThirdPerson\GoeaTechEval\Intermediate\Build\Win64\UE4Editor\Development\GoeaTechEval\GoeaTechEvalCharacter.gen.cpp.obj"
+"C:\Users\natha\Desktop\Homework\GoeaTechnicalEvaluation_ThirdPerson\GoeaTechnicalEvaluation_ThirdPerson\GoeaTechEval\Intermediate\Build\Win64\UE4Editor\Development\GoeaTechEval\GoeaTechEvalGameMode.gen.cpp.obj"
+"C:\Users\natha\Desktop\Homework\GoeaTechnicalEvaluation_ThirdPerson\GoeaTechnicalEvaluation_ThirdPerson\GoeaTechEval\Intermediate\Build\Win64\UE4Editor\Development\GoeaTechEval\Default.rc2.res"
+/OUT:"C:\Users\natha\Desktop\Homework\GoeaTechnicalEvaluation_ThirdPerson\GoeaTechnicalEvaluation_ThirdPerson\GoeaTechEval\Intermediate\Build\Win64\UE4Editor\Development\GoeaTechEval\UE4Editor-GoeaTechEval.lib"

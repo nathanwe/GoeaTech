@@ -1,0 +1,3 @@
+C:\Users\natha\Desktop\Homework\GoeaTechnicalEvaluation_ThirdPerson\GoeaTechnicalEvaluation_ThirdPerson\GoeaTechEval\Intermediate\Build\Win64\UE4Editor\Development\GoeaTechEval\Definitions.GoeaTechEval.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

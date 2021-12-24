@@ -1,0 +1,1395 @@
+﻿Log file open, 12/19/21 14:23:17
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: GoeaTechEval
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.546834
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-8665U CPU @ 1.90GHz, GPU: Intel(R) UHD Graphics 620
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  -skipcompile
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.12.19-22.23.20:665][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.12.19-22.23.20:666][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.12.19-22.23.20:666][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/Config/Windows/Engine.ini]
+[2021.12.19-22.23.20:666][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.12.19-22.23.20:666][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/Config/Windows/Engine.ini]
+[2021.12.19-22.23.20:666][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/Config/Windows/Engine.ini]
+[2021.12.19-22.23.20:666][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.12.19-22.23.20:666][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.12.19-22.23.20:666][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.12.19-22.23.20:666][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.12.19-22.23.20:666][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.12.19-22.23.20:666][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.12.19-22.23.20:666][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.12.19-22.23.20:666][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.12.19-22.23.20:666][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.12.19-22.23.20:666][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.12.19-22.23.20:666][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.12.19-22.23.20:666][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.12.19-22.23.20:666][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.12.19-22.23.20:666][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.12.19-22.23.20:666][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/Config/Windows/Engine.ini]
+[2021.12.19-22.23.20:666][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.12.19-22.23.20:666][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.12.19-22.23.20:666][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.12.19-22.23.20:666][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.12.19-22.23.20:666][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.12.19-22.23.20:666][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.12.19-22.23.20:666][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.12.19-22.23.20:666][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.12.19-22.23.20:666][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.12.19-22.23.20:667][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.12.19-22.23.20:667][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.12.19-22.23.20:667][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.12.19-22.23.20:667][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.12.19-22.23.20:667][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.12.19-22.23.20:667][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/Config/Windows/Engine.ini]
+[2021.12.19-22.23.20:667][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/Config/Windows/Engine.ini]
+[2021.12.19-22.23.20:684][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/Config/Windows/Scalability.ini]
+[2021.12.19-22.23.20:684][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.12.19-22.23.20:684][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.12.19-22.23.20:684][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/Config/Windows/Scalability.ini]
+[2021.12.19-22.23.20:684][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.12.19-22.23.20:684][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/Config/Windows/Scalability.ini]
+[2021.12.19-22.23.20:685][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.12.19-22.23.20:685][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.12.19-22.23.20:685][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.12.19-22.23.20:685][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.12.19-22.23.20:685][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.12.19-22.23.20:685][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.12.19-22.23.20:685][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.12.19-22.23.20:685][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.12.19-22.23.20:685][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.12.19-22.23.20:685][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.12.19-22.23.20:685][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.12.19-22.23.20:685][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.12.19-22.23.20:685][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.12.19-22.23.20:685][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.12.19-22.23.20:685][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.12.19-22.23.20:686][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.12.19-22.23.20:686][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.12.19-22.23.20:686][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.12.19-22.23.20:686][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/Config/Windows/Scalability.ini]
+[2021.12.19-22.23.20:686][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.12.19-22.23.20:686][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.12.19-22.23.20:686][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.12.19-22.23.20:686][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.12.19-22.23.20:686][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.12.19-22.23.20:686][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.12.19-22.23.20:686][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.12.19-22.23.20:686][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.12.19-22.23.20:687][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.12.19-22.23.20:687][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.12.19-22.23.20:687][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.12.19-22.23.20:687][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.12.19-22.23.20:687][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.12.19-22.23.20:687][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.12.19-22.23.20:687][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.12.19-22.23.20:687][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.12.19-22.23.20:687][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.12.19-22.23.20:687][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.12.19-22.23.20:687][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.12.19-22.23.20:687][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.12.19-22.23.20:687][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.12.19-22.23.20:687][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.12.19-22.23.20:687][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.12.19-22.23.20:687][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.12.19-22.23.20:687][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.12.19-22.23.20:687][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.12.19-22.23.20:687][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.12.19-22.23.20:687][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.12.19-22.23.20:687][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.12.19-22.23.20:687][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.12.19-22.23.20:687][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/Config/Windows/Scalability.ini]
+[2021.12.19-22.23.20:687][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.12.19-22.23.20:687][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.12.19-22.23.20:688][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.12.19-22.23.20:688][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.12.19-22.23.20:688][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.12.19-22.23.20:688][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.12.19-22.23.20:688][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.12.19-22.23.20:688][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.12.19-22.23.20:688][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.12.19-22.23.20:688][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/Config/Windows/Scalability.ini]
+[2021.12.19-22.23.20:688][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.12.19-22.23.20:688][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.12.19-22.23.20:688][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.12.19-22.23.20:688][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.12.19-22.23.20:688][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.12.19-22.23.20:688][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.12.19-22.23.20:688][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.12.19-22.23.20:688][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.12.19-22.23.20:688][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.12.19-22.23.20:688][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.12.19-22.23.20:688][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.12.19-22.23.20:688][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.12.19-22.23.20:688][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.12.19-22.23.20:688][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.12.19-22.23.20:688][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.12.19-22.23.20:688][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.12.19-22.23.20:688][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.12.19-22.23.20:688][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.12.19-22.23.20:688][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.12.19-22.23.20:688][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.12.19-22.23.20:688][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.12.19-22.23.20:688][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.12.19-22.23.20:688][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.12.19-22.23.20:688][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.12.19-22.23.20:689][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.12.19-22.23.20:689][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.12.19-22.23.20:689][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.12.19-22.23.20:689][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2021.12.19-22.23.20:689][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/Config/Windows/Scalability.ini]
+[2021.12.19-22.23.20:689][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.12.19-22.23.20:689][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.12.19-22.23.20:689][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/Config/Windows/Scalability.ini]
+[2021.12.19-22.23.20:689][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.12.19-22.23.20:689][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.12.19-22.23.20:689][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.12.19-22.23.20:689][  0]LogInit: Selected Device Profile: [Windows]
+[2021.12.19-22.23.20:689][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.12.19-22.23.20:689][  0]LogHAL: Display: Platform has ~ 48 GB [51241758720 / 68719476736 / 48], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.12.19-22.23.20:689][  0]LogInit: Going up to parent DeviceProfile []
+[2021.12.19-22.23.20:689][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/Config/Windows/Scalability.ini]
+[2021.12.19-22.23.20:689][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.12.19-22.23.20:689][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.12.19-22.23.20:689][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/Config/Windows/Scalability.ini]
+[2021.12.19-22.23.20:689][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.12.19-22.23.20:690][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/Config/Windows/Scalability.ini]
+[2021.12.19-22.23.20:690][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.12.19-22.23.20:690][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.12.19-22.23.20:690][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.12.19-22.23.20:690][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.12.19-22.23.20:690][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.12.19-22.23.20:690][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.12.19-22.23.20:690][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.12.19-22.23.20:690][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.12.19-22.23.20:690][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.12.19-22.23.20:690][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.12.19-22.23.20:690][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.12.19-22.23.20:690][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.12.19-22.23.20:690][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.12.19-22.23.20:690][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.12.19-22.23.20:691][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.12.19-22.23.20:691][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.12.19-22.23.20:691][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.12.19-22.23.20:691][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.12.19-22.23.20:691][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/Config/Windows/Scalability.ini]
+[2021.12.19-22.23.20:691][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.12.19-22.23.20:691][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.12.19-22.23.20:691][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.12.19-22.23.20:692][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.12.19-22.23.20:692][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.12.19-22.23.20:692][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.12.19-22.23.20:692][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.12.19-22.23.20:692][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.12.19-22.23.20:692][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.12.19-22.23.20:692][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.12.19-22.23.20:692][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.12.19-22.23.20:692][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.12.19-22.23.20:692][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.12.19-22.23.20:692][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.12.19-22.23.20:692][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.12.19-22.23.20:692][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.12.19-22.23.20:692][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.12.19-22.23.20:692][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.12.19-22.23.20:692][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.12.19-22.23.20:692][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.12.19-22.23.20:692][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.12.19-22.23.20:692][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.12.19-22.23.20:692][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.12.19-22.23.20:693][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.12.19-22.23.20:693][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.12.19-22.23.20:693][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.12.19-22.23.20:693][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.12.19-22.23.20:693][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.12.19-22.23.20:693][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.12.19-22.23.20:693][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.12.19-22.23.20:693][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/Config/Windows/Scalability.ini]
+[2021.12.19-22.23.20:693][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.12.19-22.23.20:693][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.12.19-22.23.20:693][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.12.19-22.23.20:693][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.12.19-22.23.20:693][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.12.19-22.23.20:693][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.12.19-22.23.20:693][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.12.19-22.23.20:693][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.12.19-22.23.20:693][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.12.19-22.23.20:694][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/Config/Windows/Scalability.ini]
+[2021.12.19-22.23.20:694][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.12.19-22.23.20:694][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.12.19-22.23.20:694][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.12.19-22.23.20:694][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.12.19-22.23.20:694][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.12.19-22.23.20:694][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.12.19-22.23.20:694][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.12.19-22.23.20:694][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.12.19-22.23.20:694][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.12.19-22.23.20:694][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.12.19-22.23.20:694][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.12.19-22.23.20:694][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.12.19-22.23.20:694][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.12.19-22.23.20:694][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.12.19-22.23.20:694][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.12.19-22.23.20:694][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.12.19-22.23.20:694][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.12.19-22.23.20:694][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.12.19-22.23.20:694][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.12.19-22.23.20:695][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.12.19-22.23.20:695][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.12.19-22.23.20:695][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.12.19-22.23.20:695][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.12.19-22.23.20:695][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.12.19-22.23.20:695][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.12.19-22.23.20:695][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.12.19-22.23.20:695][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.12.19-22.23.20:695][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2021.12.19-22.23.20:695][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/Config/Windows/Scalability.ini]
+[2021.12.19-22.23.20:695][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.12.19-22.23.20:695][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.12.19-22.23.20:695][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/Config/Windows/Scalability.ini]
+[2021.12.19-22.23.20:695][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.12.19-22.23.20:695][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.12.19-22.23.20:695][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.12.19-22.23.20:695][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.12.19-22.23.20:697][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.12.19-22.23.20:697][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.12.19-22.23.20:697][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.12.19-22.23.20:697][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/Config/Windows/Engine.ini]
+[2021.12.19-22.23.20:697][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/Config/Windows/Editor.ini]
+[2021.12.19-22.23.20:697][  0]LogInit: Computer: LAPTOP-B6DCDAAC
+[2021.12.19-22.23.20:697][  0]LogInit: User: Nathan
+[2021.12.19-22.23.20:697][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.12.19-22.23.20:697][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.12.19-22.23.20:697][  0]LogMemory: Memory total: Physical=47.7GB (48GB approx)
+[2021.12.19-22.23.20:697][  0]LogMemory: Platform Memory Stats for Windows
+[2021.12.19-22.23.20:698][  0]LogMemory: Process Physical Memory: 142.67 MB used, 142.67 MB peak
+[2021.12.19-22.23.20:698][  0]LogMemory: Process Virtual Memory: 124.64 MB used, 124.64 MB peak
+[2021.12.19-22.23.20:698][  0]LogMemory: Physical Memory: 18597.96 MB used,  30269.98 MB free, 48867.95 MB total
+[2021.12.19-22.23.20:698][  0]LogMemory: Virtual Memory: 134177208.00 MB used,  40516.80 MB free, 134217728.00 MB total
+[2021.12.19-22.23.20:729][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.12.19-22.23.21:046][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.12.19-22.23.21:047][  0]LogInit: Using OS detected language (en-US).
+[2021.12.19-22.23.21:048][  0]LogInit: Using OS detected locale (en-US).
+[2021.12.19-22.23.21:052][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.12.19-22.23.21:307][  0]LogInit: Setting process to per monitor DPI aware
+[2021.12.19-22.23.21:352][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.19-22.23.21:456][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.12.19-22.23.21:456][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.12.19-22.23.26:035][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2021.12.19-22.23.26:050][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.12.19-22.23.26:050][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.12.19-22.23.26:050][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.12.19-22.23.26:050][  0]LogD3D11RHI: D3D11 adapters:
+[2021.12.19-22.23.26:137][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2021.12.19-22.23.26:138][  0]LogD3D11RHI:       128/0/24433 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x8086
+[2021.12.19-22.23.26:145][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.12.19-22.23.26:145][  0]LogD3D11RHI:       0/0/24433 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.12.19-22.23.26:210][  0]LogD3D11RHI:    2. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2021.12.19-22.23.26:210][  0]LogD3D11RHI:       128/0/24433 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.12.19-22.23.26:210][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2021.12.19-22.23.26:210][  0]LogD3D11RHI:     Description : Intel(R) UHD Graphics 620
+[2021.12.19-22.23.26:210][  0]LogD3D11RHI:     VendorId    : 8086
+[2021.12.19-22.23.26:210][  0]LogD3D11RHI:     DeviceId    : 3ea0
+[2021.12.19-22.23.26:210][  0]LogD3D11RHI:     SubSysId    : 227917aa
+[2021.12.19-22.23.26:210][  0]LogD3D11RHI:     Revision    : 0002
+[2021.12.19-22.23.26:210][  0]LogD3D11RHI:     DedicatedVideoMemory : 134217728 bytes
+[2021.12.19-22.23.26:211][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2021.12.19-22.23.26:211][  0]LogD3D11RHI:     SharedSystemMemory : 25620879360 bytes
+[2021.12.19-22.23.26:211][  0]LogD3D11RHI:     AdapterLuid : 0 52867
+[2021.12.19-22.23.26:218][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.12.19-22.23.26:218][  0]LogD3D11RHI:     GPU DeviceId: 0x3ea0 (for the marketing name, search the web for "GPU Device Id")
+[2021.12.19-22.23.26:218][  0]LogWindows: EnumDisplayDevices:
+[2021.12.19-22.23.26:218][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2021.12.19-22.23.26:218][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2021.12.19-22.23.26:219][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2021.12.19-22.23.26:219][  0]LogWindows:    3. 'DisplayLink USB Device' (P:0 D:1)
+[2021.12.19-22.23.26:220][  0]LogWindows:    4. 'DisplayLink USB Device' (P:0 D:0)
+[2021.12.19-22.23.26:220][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:3 
+[2021.12.19-22.23.26:220][  0]LogD3D11RHI:     Adapter Name: Intel(R) UHD Graphics 620
+[2021.12.19-22.23.26:220][  0]LogD3D11RHI:   Driver Version: 27.20.100.9749 (internal:27.20.100.9749, unified:27.20.100.9749)
+[2021.12.19-22.23.26:220][  0]LogD3D11RHI:      Driver Date: 6-24-2021
+[2021.12.19-22.23.26:220][  0]LogRHI: Texture pool is 1523 MB (70% of 2176 MB)
+[2021.12.19-22.23.26:327][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2021.12.19-22.23.26:327][  0]LogD3D11RHI:     Description : Intel(R) UHD Graphics 620
+[2021.12.19-22.23.26:328][  0]LogD3D11RHI:     VendorId    : 8086
+[2021.12.19-22.23.26:328][  0]LogD3D11RHI:     DeviceId    : 3ea0
+[2021.12.19-22.23.26:328][  0]LogD3D11RHI:     SubSysId    : 227917aa
+[2021.12.19-22.23.26:328][  0]LogD3D11RHI:     Revision    : 0002
+[2021.12.19-22.23.26:328][  0]LogD3D11RHI:     DedicatedVideoMemory : 134217728 bytes
+[2021.12.19-22.23.26:328][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2021.12.19-22.23.26:328][  0]LogD3D11RHI:     SharedSystemMemory : 25620879360 bytes
+[2021.12.19-22.23.26:328][  0]LogD3D11RHI:     AdapterLuid : 0 52867
+[2021.12.19-22.23.26:384][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2021.12.19-22.23.26:447][  0]LogD3D11RHI: Intel Extensions support version Full=16777216, Major=1, Minor=0, Revision=0
+[2021.12.19-22.23.26:447][  0]LogD3D11RHI: Intel Extensions support version Full=16777217, Major=1, Minor=0, Revision=1
+[2021.12.19-22.23.26:447][  0]LogD3D11RHI: Intel Extensions Framework enabled
+[2021.12.19-22.23.26:448][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2021.12.19-22.23.26:448][  0]LogD3D11RHI: Async texture creation enabled
+[2021.12.19-22.23.26:448][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.12.19-22.23.26:456][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2021.12.19-22.23.26:845][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.12.19-22.23.26:903][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.12.19-22.23.26:903][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.12.19-22.23.26:903][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.12.19-22.23.26:903][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.12.19-22.23.26:903][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.12.19-22.23.26:903][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.12.19-22.23.26:903][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.12.19-22.23.26:904][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.12.19-22.23.26:904][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.12.19-22.23.26:904][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.12.19-22.23.27:010][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.12.19-22.23.27:010][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.12.19-22.23.27:050][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.12.19-22.23.27:083][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.12.19-22.23.27:111][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.12.19-22.23.27:141][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.12.19-22.23.27:182][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.12.19-22.23.27:211][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.12.19-22.23.27:240][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.12.19-22.23.27:309][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.12.19-22.23.27:309][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.12.19-22.23.27:348][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.12.19-22.23.27:379][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.12.19-22.23.27:408][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.12.19-22.23.27:440][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.12.19-22.23.27:482][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.12.19-22.23.27:482][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.12.19-22.23.27:526][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.12.19-22.23.27:560][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.12.19-22.23.27:594][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.12.19-22.23.27:628][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.12.19-22.23.27:628][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.12.19-22.23.27:741][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.12.19-22.23.28:044][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2021.12.19-22.23.28:416][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.12.19-22.23.28:416][  0]LogShaderCompilers: Guid format shader working directory is -86 characters bigger than the processId version (../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Intermediate/Shaders/WorkingDirectory/22252/).
+[2021.12.19-22.23.28:416][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/natha/AppData/Local/Temp/UnrealShaderWorkingDir/8D4047B147F0E6AD1CD96CBC223EB589/'.
+[2021.12.19-22.23.28:416][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.12.19-22.23.28:417][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.12.19-22.23.28:417][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.12.19-22.23.35:240][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.12.19-22.23.35:344][  0]LogDerivedDataCache: Loaded boot cache 0.10s 146MB C:/Users/natha/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2021.12.19-22.23.35:344][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/natha/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2021.12.19-22.23.35:344][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.12.19-22.23.35:345][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.12.19-22.23.35:345][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.12.19-22.23.35:346][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.12.19-22.23.35:380][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.12.19-22.23.35:380][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.12.19-22.23.35:381][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.12.19-22.23.35:407][  0]LogDerivedDataCache: Speed tests for C:/Users/natha/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.03 seconds
+[2021.12.19-22.23.35:407][  0]LogDerivedDataCache: Display: Performance to C:/Users/natha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=119.62MBs, RandomWriteSpeed=49.43MBs. Assigned SpeedClass 'Local'
+[2021.12.19-22.23.35:410][  0]LogDerivedDataCache: Using Local data cache path C:/Users/natha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.12.19-22.23.35:410][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.12.19-22.23.35:410][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.12.19-22.23.35:485][  0]LogSlate: Using FreeType 2.10.0
+[2021.12.19-22.23.35:514][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.12.19-22.23.35:914][  0]LogAssetRegistry: FAssetRegistry took 0.0064 seconds to start up
+[2021.12.19-22.23.36:269][  0]LogInit: Selected Device Profile: [Windows]
+[2021.12.19-22.23.36:270][  0]LogInit: Active device profile: [000001A64A9D5400][000001A64360E740 49] Windows
+[2021.12.19-22.23.36:270][  0]LogInit: Profiles: [000001A64A9D5400][000001A64360E740 49] Windows, [000001A64A97F100][000001A640C6AA00 49] WindowsNoEditor, [000001A64A9D6200][000001A640C6ECC0 49] WindowsServer, [000001A64A97FE00][000001A640C72F80 49] WindowsClient, [000001A64A9D6F00][000001A643613200 49] IOS, [000001A64A97D600][000001A640C7B480 49] iPadAir, [000001A64A9D7C00][000001A648B57740 49] iPadAir2, [000001A64BC1A600][000001A648B82100 49] IPadPro, [000001A64BC1A700][000001A648B72140 49] iPadAir3, [000001A64A97C300][000001A648B7A400 49] iPadAir4, [000001A64BC1B500][000001A648B766C0 49] iPadMini2, [000001A64A97F500][000001A648B7E980 49] iPadMini3, [000001A64BC1A400][000001A64A504C40 49] iPadMini4, [000001A64A97E400][000001A64A508F00 49] iPadMini5, [000001A64BC1DF00][000001A64A519400 49] iPhone6, [000001A64BC1E000][000001A64A50D440 49] iPodTouch6, [000001A64A9D6D00][000001A642A3F940 49] iPhone7, [000001A64A9D5500][000001A648B53980 49] iPodTouch7, [000001A64BC1B200][000001A642A360C0 49] iPhone5S, [000001A64A9D6000][000001A64A510380 49] iPhone6Plus, [000001A64BC19200][000001A642A3A640 49] iPhone6S, [000001A64A9D6B00][000001A642A46900 49] iPhone6SPlus, [000001A64BC18A00][000001A642A52BC0 49] iPhone7Plus, [000001A64A9D5100][000001A642A56E80 49] iPhoneSE, [000001A64BC18800][000001A642A5B140 49] iPhone8, [000001A64A9D6C00][000001A64CD67400 49] iPhone8Plus, [000001A64BC1B100][000001A64A515680 49] iPhoneX, [000001A64A9D4F00][000001A642A63900 49] iPhoneXS, [000001A64BC1AF00][000001A643621BC0 49] iPhoneXSMax, [000001A64A9D6900][000001A643624300 49] iPhoneXR, [000001A64BC1C400][000001A6436625C0 49] iPhone11, [000001A64BC19300][000001A6434B4880 49] iPhone11Pro, [000001A64BC1CC00][000001A643686B40 49] iPhone11ProMax, [000001A64BC19B00][000001A640C58E00 49] iPhoneSE2, [000001A64BC1D400][000001A6434B90C0 49] iPhone12Mini, [000001A64BC1A300][000001A6434BD380 49] iPhone12, [000001A64BC1DA00][000001A6434C1640 49] iPhone12Pro, [000001A64BC1A100][000001A64361D8C0 49] iPhone12ProMax, [000001A64BC1DD00][000001A6434C5B40 49] iPadPro105, [000001A64BC19C00][000001A6434CC280 49] iPadPro129, [000001A64BC1FF00][000001A6434D0540 49] iPadPro97, [000001A64BC18400][000001A64A18C800 49] iPadPro2_129, [000001A64A9D5D00][000001A64A194AC0 49] iPad5, [000001A64BC1DE00][000001A64A198D80 49] iPad6, [000001A64BC19F00][000001A64B7FB040 49] iPad7, [000001A64BC1C800][000001A64B813300 49] iPad8, [000001A64BC1BC00][000001A64B82B5C0 49] iPadPro11, [000001A64BC1C900][000001A64CA91880 49] iPadPro2_11, [000001A64BC19400][000001A6434C9B00 49] iPadPro3_129, [000001A64BC1F500][000001A64CA94200 49] iPadPro4_129, [000001A64BC18D00][000001A64CA9C4C0 49] AppleTV, [000001A64BC1D000][000001A64CAA0780 49] AppleTV4K, [000001A64BC18100][000001A64CAA4A40 49] TVOS, [000001A64BC1CD00][000001A64CAA8D00 49] Mac, [000001A64BC1B700][000001A64B8CEFC0 49] MacClient, [000001A64BC1E400][000001A64B8D3280 49] MacNoEditor, [000001A64BC19800][000001A64B947540 49] MacServer, [000001A64BC1ED00][000001A64B94B800 49] Linux, [000001A64BC1A500][000001A64B94FAC0 49] LinuxAArch64, [000001A64BC1CB00][000001A64CA981C0 49] LinuxNoEditor, [000001A64BC1B400][000001A64B95A440 49] LinuxAArch64NoEditor, [000001A64BC1D800][000001A64A3C2700 49] LinuxClient, [000001A64BC18300][000001A64A3C69C0 49] LinuxAArch64Client, [000001A64BC1D200][000001A64A40AC80 49] LinuxServer, [000001A64BC1B000][000001A64A40EF40 49] LinuxAArch64Server, [000001A64BC1E600][000001A64A417200 49] Android, [000001A64BC19D00][000001A64A41B4C0 49] Android_Low, [000001A64BC1E900][000001A64A41F780 49] Android_Mid, [000001A64BC19100][000001A643667A40 49] Android_High, [000001A64BC1C300][000001A64366A180 49] Android_Default, [000001A64BC18500][000001A64A3BE400 49] Android_Adreno4xx, [000001A64BC1D900][000001A64A3CA6C0 49] Android_Adreno5xx_Low, [000001A64BC1A900][000001A64367A980 49] Android_Adreno5xx, [000001A64BC1CA00][000001A64367EC40 49] Android_Adreno6xx, [000001A64BC1BA00][000001A643682F00 49] Android_Adreno6xx_Vulkan, [000001A64BC1FB00][000001A64CA091C0 49] Android_Mali_T6xx, [000001A64BC19600][000001A64A191480 49] Android_Mali_T7xx, [000001A64BC1DC00][000001A64CD6B740 49] Android_Mali_T8xx, [000001A64BC19A00][000001A642A5FA00 49] Android_Mali_G71, [000001A64BC1D100][000001A63D36E140 49] Android_Mali_G72, [000001A64BC18900][000001A64A4123C0 49] Android_Mali_G72_Vulkan, [000001A64BC1CF00][000001A63D372640 49] Android_Mali_G76, [000001A64BC1AC00][000001A63D37A900 49] Android_Mali_G76_Vulkan, [000001A64BC1D300][000001A63D37EBC0 49] Android_Mali_G77, [000001A64BC19000][000001A63D382E80 49] Android_Mali_G77_Vulkan, [000001A64BC1EA00][000001A63D387140 49] Android_Mali_G78, [000001A64BC18C00][000001A63D38B400 49] Android_Mali_G78_Vulkan, [000001A64BC1E800][000001A63D38F6C0 49] Android_Mali_G710, [000001A64BC18700][000001A63D393980 49] Android_Mali_G710_Vulkan, [000001A64A97E500][000001A64CA0C0C0 49] Android_Vulkan_SM5, [000001A64A9D4E00][000001A64CA10380 49] Android_PowerVR_G6xxx, [000001A64A97CB00][000001A63D376600 49] Android_PowerVR_GT7xxx, [000001A64A9D4400][000001A64CA14880 49] Android_PowerVR_GE8xxx, [000001A64A97FB00][000001A64CA1CB40 49] Android_PowerVR_GM9xxx, [000001A64A9D7F00][000001A64CA20E00 49] Android_PowerVR_GM9xxx_Vulkan, [000001A64A97CD00][000001A64CA250C0 49] Android_TegraK1, [000001A64A9D6A00][000001A64CA29380 49] Android_Unknown_Vulkan, [000001A64A97D700][000001A64CA2D640 49] Lumin, [000001A64A9D7400][000001A64CA31900 49] Lumin_Desktop, [000001A64A97C400][000001A64CA35BC0 49] HoloLens, 
+[2021.12.19-22.23.36:856][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.12.19-22.23.36:857][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.12.19-22.23.36:857][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.12.19-22.23.36:857][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.12.19-22.23.36:857][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.12.19-22.23.36:934][  0]LogNetVersion: GoeaTechEval 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 1971217671)
+[2021.12.19-22.23.41:915][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2021.12.19-22.23.42:066][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.12.19-22.23.42:073][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2021.12.19-22.23.42:073][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2021.12.19-22.23.42:073][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.12.19-22.23.43:859][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 59FC9264458AD85CF2BC75A21ED94B5F | Instance: 6320D9D446C6189CC4FC0A82DD33A38A (LAPTOP-B6DCDAAC-22252).
+[2021.12.19-22.23.44:136][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.12.19-22.23.44:169][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.12.19-22.23.44:243][  0]LogPython: Using Python 3.7.7
+[2021.12.19-22.23.47:223][  0]SourceControl: Source control is disabled
+[2021.12.19-22.23.47:224][  0]SourceControl: Source control is disabled
+[2021.12.19-22.23.47:253][  0]SourceControl: Source control is disabled
+[2021.12.19-22.23.47:336][  0]SourceControl: Source control is disabled
+[2021.12.19-22.23.47:361][  0]SourceControl: Source control is disabled
+[2021.12.19-22.23.47:405][  0]LogUProjectInfo: Found projects:
+[2021.12.19-22.23.48:682][  0]LogOpenImageDenoise: OIDN starting up
+[2021.12.19-22.23.49:117][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.12.19-22.23.49:273][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.12.19-22.23.49:273][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.12.19-22.23.50:192][  0]LogCollectionManager: Loaded 0 collections in 0.002279 seconds
+[2021.12.19-22.23.50:349][  0]LogFileCache: Scanning file cache for directory 'C:/Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/Collections/' took 0.00s
+[2021.12.19-22.23.50:349][  0]LogFileCache: Scanning file cache for directory 'C:/Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Content/Developers/Nathan/Collections/' took 0.00s
+[2021.12.19-22.23.50:349][  0]LogFileCache: Scanning file cache for directory 'C:/Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Content/Collections/' took 0.00s
+[2021.12.19-22.23.50:349][  0]LogOcInput: OculusInput pre-init called
+[2021.12.19-22.23.51:081][  0]LogEngine: Initializing Engine...
+[2021.12.19-22.23.51:134][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2021.12.19-22.23.51:134][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.12.19-22.23.51:134][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.12.19-22.23.51:135][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.12.19-22.23.51:581][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.12.19-22.23.51:618][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.12.19-22.23.51:619][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.12.19-22.23.51:645][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2021.12.19-22.23.51:653][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2021.12.19-22.23.51:653][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.12.19-22.23.51:654][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.12.19-22.23.51:654][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.19-22.23.51:654][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.19-22.23.51:654][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.19-22.23.51:654][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.19-22.23.51:654][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.19-22.23.51:654][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.19-22.23.51:654][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.19-22.23.51:654][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.19-22.23.51:655][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.19-22.23.51:655][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.19-22.23.51:655][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.19-22.23.51:655][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.19-22.23.51:709][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.19-22.23.51:709][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.12.19-22.23.51:726][  0]LogAudioMixer: Display: Using Audio Device Speakers (Dell USB Audio)
+[2021.12.19-22.23.51:726][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.19-22.23.51:762][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.19-22.23.51:763][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.19-22.23.51:763][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.19-22.23.51:764][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.19-22.23.51:764][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.19-22.23.51:766][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.19-22.23.51:766][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.19-22.23.51:766][  0]LogInit: FAudioDevice initialized.
+[2021.12.19-22.23.51:767][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.12.19-22.23.51:767][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.12.19-22.23.51:834][  0]LogDerivedDataCache: Saved boot cache 0.07s 103MB C:/Users/natha/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2021.12.19-22.23.51:835][  0]LogInit: Texture streaming: Enabled
+[2021.12.19-22.23.51:911][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2021.12.19-22.23.51:938][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.12.19-22.23.51:939][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.12.19-22.23.51:940][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.12.19-22.23.52:014][  0]LogInit: Transaction tracking system initialized
+[2021.12.19-22.23.52:178][  0]BlueprintLog: New page: Editor Load
+[2021.12.19-22.23.52:635][  0]LocalizationService: Localization service is disabled
+[2021.12.19-22.23.52:931][  0]TimingProfiler: Initialize
+[2021.12.19-22.23.52:931][  0]TimingProfiler: OnSessionChanged
+[2021.12.19-22.23.52:931][  0]LoadingProfiler: Initialize
+[2021.12.19-22.23.52:931][  0]LoadingProfiler: OnSessionChanged
+[2021.12.19-22.23.52:932][  0]NetworkingProfiler: Initialize
+[2021.12.19-22.23.52:932][  0]NetworkingProfiler: OnSessionChanged
+[2021.12.19-22.23.52:932][  0]MemoryProfiler: Initialize
+[2021.12.19-22.23.52:932][  0]MemoryProfiler: OnSessionChanged
+[2021.12.19-22.23.54:278][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.12.19-22.23.54:278][  0]LogCook: Display: Mobile HDR setting 1
+[2021.12.19-22.23.54:454][  0]LogFileCache: Scanning file cache for directory 'C:/Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Content/' took 0.01s
+[2021.12.19-22.23.56:434][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.12.19-22.23.56:437][  0]SourceControl: Source control is disabled
+[2021.12.19-22.23.56:438][  0]LogUnrealEdMisc: Loading editor; pre map load, took 40.512
+[2021.12.19-22.23.56:438][  0]LightingResults: New page: Lighting Build
+[2021.12.19-22.23.56:440][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.12.19-22.23.56:440][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.19-22.23.56:440][  0]MapCheck: New page: Map Check
+[2021.12.19-22.23.56:440][  0]LightingResults: New page: Lighting Build
+[2021.12.19-22.23.56:448][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.19-22.23.56:452][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2021.12.19-22.23.57:099][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2021.12.19-22.23.57:100][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.12.19-22.23.57:117][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.12.19-22.23.57:146][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2021.12.19-22.23.57:147][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.12.19-22.23.57:147][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.171ms to complete.
+[2021.12.19-22.23.57:147][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.709
+[2021.12.19-22.23.57:149][  0]LogUnrealEdMisc: Total Editor Startup Time, took 41.224
+[2021.12.19-22.23.57:319][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.19-22.23.57:328][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.19-22.23.57:336][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.19-22.23.57:344][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.19-22.23.57:371][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0139 seconds. Added 3824 classes and 930 folders.
+[2021.12.19-22.23.57:374][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.12.19-22.23.57:399][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.12.19-22.23.57:399][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.19-22.23.57:399][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.19-22.23.57:399][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.19-22.23.57:399][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2021.12.19-22.23.57:399][  0]LogPakFile: OnPakFileMounted2Time == 0.000173
+[2021.12.19-22.23.57:411][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.12.19-22.23.57:411][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.19-22.23.57:411][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.12.19-22.23.57:411][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.19-22.23.57:411][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2021.12.19-22.23.57:411][  0]LogPakFile: OnPakFileMounted2Time == 0.000147
+[2021.12.19-22.23.57:420][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.12.19-22.23.57:421][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.19-22.23.57:421][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.12.19-22.23.57:421][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.19-22.23.57:421][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2021.12.19-22.23.57:421][  0]LogPakFile: OnPakFileMounted2Time == 0.000177
+[2021.12.19-22.23.57:429][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.19-22.23.57:429][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.19-22.23.57:429][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.19-22.23.57:430][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.19-22.23.57:430][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2021.12.19-22.23.57:430][  0]LogPakFile: OnPakFileMounted2Time == 0.000199
+[2021.12.19-22.23.57:442][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.12.19-22.23.57:442][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.19-22.23.57:442][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.12.19-22.23.57:442][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.19-22.23.57:442][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2021.12.19-22.23.57:442][  0]LogPakFile: OnPakFileMounted2Time == 0.000208
+[2021.12.19-22.23.57:451][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.12.19-22.23.57:451][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.19-22.23.57:451][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.12.19-22.23.57:452][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.19-22.23.57:452][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2021.12.19-22.23.57:452][  0]LogPakFile: OnPakFileMounted2Time == 0.000184
+[2021.12.19-22.23.57:460][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.12.19-22.23.57:460][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.19-22.23.57:460][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.12.19-22.23.57:460][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.19-22.23.57:460][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2021.12.19-22.23.57:460][  0]LogPakFile: OnPakFileMounted2Time == 0.000163
+[2021.12.19-22.23.57:469][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.12.19-22.23.57:470][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.19-22.23.57:470][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.12.19-22.23.57:470][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.19-22.23.57:470][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2021.12.19-22.23.57:470][  0]LogPakFile: OnPakFileMounted2Time == 0.000156
+[2021.12.19-22.23.57:479][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.12.19-22.23.57:479][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.19-22.23.57:479][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.12.19-22.23.57:479][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.19-22.23.57:479][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2021.12.19-22.23.57:479][  0]LogPakFile: OnPakFileMounted2Time == 0.000188
+[2021.12.19-22.23.57:488][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.12.19-22.23.57:488][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.19-22.23.57:488][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.12.19-22.23.57:488][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.19-22.23.57:488][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2021.12.19-22.23.57:489][  0]LogPakFile: OnPakFileMounted2Time == 0.000188
+[2021.12.19-22.23.57:497][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.12.19-22.23.57:497][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.19-22.23.57:497][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.12.19-22.23.57:497][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.19-22.23.57:498][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2021.12.19-22.23.57:498][  0]LogPakFile: OnPakFileMounted2Time == 0.000210
+[2021.12.19-22.23.57:507][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.12.19-22.23.57:507][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.19-22.23.57:507][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.12.19-22.23.57:507][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.19-22.23.57:507][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2021.12.19-22.23.57:507][  0]LogPakFile: OnPakFileMounted2Time == 0.000155
+[2021.12.19-22.23.57:516][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.19-22.23.57:516][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.19-22.23.57:516][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.19-22.23.57:516][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.19-22.23.57:516][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2021.12.19-22.23.57:516][  0]LogPakFile: OnPakFileMounted2Time == 0.000161
+[2021.12.19-22.23.57:524][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.12.19-22.23.57:524][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.19-22.23.57:524][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.12.19-22.23.57:524][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.19-22.23.57:524][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2021.12.19-22.23.57:525][  0]LogPakFile: OnPakFileMounted2Time == 0.000173
+[2021.12.19-22.23.57:533][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.12.19-22.23.57:533][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.19-22.23.57:533][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.12.19-22.23.57:533][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.19-22.23.57:533][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2021.12.19-22.23.57:533][  0]LogPakFile: OnPakFileMounted2Time == 0.000162
+[2021.12.19-22.23.57:542][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.12.19-22.23.57:542][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.19-22.23.57:542][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.19-22.23.57:542][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.19-22.23.57:542][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2021.12.19-22.23.57:542][  0]LogPakFile: OnPakFileMounted2Time == 0.000232
+[2021.12.19-22.23.57:550][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.12.19-22.23.57:550][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.19-22.23.57:550][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.12.19-22.23.57:551][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.19-22.23.57:551][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2021.12.19-22.23.57:551][  0]LogPakFile: OnPakFileMounted2Time == 0.000159
+[2021.12.19-22.23.57:560][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.12.19-22.23.57:560][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.19-22.23.57:560][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.12.19-22.23.57:560][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.19-22.23.57:560][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2021.12.19-22.23.57:561][  0]LogPakFile: OnPakFileMounted2Time == 0.000210
+[2021.12.19-22.23.57:569][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.19-22.23.57:569][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.19-22.23.57:569][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.19-22.23.57:570][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.19-22.23.57:570][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2021.12.19-22.23.57:570][  0]LogPakFile: OnPakFileMounted2Time == 0.000151
+[2021.12.19-22.23.57:582][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.19-22.23.57:582][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.19-22.23.57:583][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.19-22.23.57:583][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.19-22.23.57:583][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2021.12.19-22.23.57:583][  0]LogPakFile: OnPakFileMounted2Time == 0.000165
+[2021.12.19-22.23.57:591][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.12.19-22.23.57:591][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.19-22.23.57:591][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.19-22.23.57:591][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.19-22.23.57:591][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2021.12.19-22.23.57:592][  0]LogPakFile: OnPakFileMounted2Time == 0.000161
+[2021.12.19-22.23.57:600][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.12.19-22.23.57:601][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.19-22.23.57:601][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.12.19-22.23.57:601][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.19-22.23.57:601][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2021.12.19-22.23.57:601][  0]LogPakFile: OnPakFileMounted2Time == 0.000152
+[2021.12.19-22.23.57:610][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.12.19-22.23.57:610][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.19-22.23.57:610][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.12.19-22.23.57:610][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.19-22.23.57:610][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2021.12.19-22.23.57:610][  0]LogPakFile: OnPakFileMounted2Time == 0.000142
+[2021.12.19-22.23.57:618][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.12.19-22.23.57:618][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.19-22.23.57:619][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.12.19-22.23.57:619][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.19-22.23.57:619][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2021.12.19-22.23.57:619][  0]LogPakFile: OnPakFileMounted2Time == 0.000193
+[2021.12.19-22.23.57:628][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.19-22.23.57:628][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.19-22.23.57:628][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.19-22.23.57:628][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.19-22.23.57:628][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2021.12.19-22.23.57:629][  0]LogPakFile: OnPakFileMounted2Time == 0.000180
+[2021.12.19-22.23.57:637][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.12.19-22.23.57:637][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.19-22.23.57:637][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.12.19-22.23.57:637][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.19-22.23.57:637][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2021.12.19-22.23.57:637][  0]LogPakFile: OnPakFileMounted2Time == 0.000184
+[2021.12.19-22.23.58:124][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.12.19-22.23.58:125][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.12.19-22.23.58:258][  0]LogSlate: Took 0.009809 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.12.19-22.23.58:269][  0]LogSlate: Took 0.010138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.12.19-22.23.58:278][  0]LogSlate: Took 0.007423 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.12.19-22.23.58:470][  0]LogRenderer: Reallocating scene render targets to support 1072x492 Format 10 NumSamples 1 (Frame:1).
+[2021.12.19-22.23.58:704][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.12.19-22.23.58:704][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.12.19-22.23.58:704][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.12.19-22.23.58:705][  0]LogLoad: (Engine Initialization) Total time: 42.78 seconds
+[2021.12.19-22.23.58:705][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.12.19-22.23.58:775][  0]LogAssetRegistry: Asset discovery search completed in 22.8644 seconds
+[2021.12.19-22.23.58:835][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2021.12.19-22.23.58:838][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.12.19-22.29.36:230][916]LogSlate: Took 0.023740 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.12.19-22.29.36:273][916]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/ThirdPersonCPP/Blueprints/BT_Enemy.BT_Enemy
+[2021.12.19-22.29.36:424][916]LogSlate: Took 0.014415 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.12.19-22.29.38:266][973]LogSlate: Window 'BT_Enemy' being destroyed
+[2021.12.19-22.29.39:917][ 26]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonCPP/Blueprints/Enemy_Controller.Enemy_Controller
+[2021.12.19-22.29.40:832][ 26]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2021.12.19-22.31.38:684][219]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonCPP/Blueprints/Character_Blueprint.Character_Blueprint
+[2021.12.19-22.31.45:387][563]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.12.19-22.31.45:387][563]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.19-22.31.45:448][563]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonCPP/Blueprints/Character_Blueprint.Character_Blueprint
+[2021.12.19-22.33.58:974][291]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2021.12.19-22.33.58:992][291]LogSavePackage: Moving '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/ThirdPersonExampleMap_Auto1A83C17C04F7498EB6DC2E497FFE08C2D.tmp' to '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/Autosaves/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2021.12.19-22.33.58:995][291]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap' took 0.050
+[2021.12.19-22.33.58:996][291]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.050
+[2021.12.19-22.33.58:996][291]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPersonCPP/Blueprints/Character_Blueprint] ([2] browsable assets)...
+[2021.12.19-22.33.59:034][291]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/ThirdPersonCPP/Blueprints/Character_Blueprint.Character_Blueprint_C]
+[2021.12.19-22.33.59:061][291]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonCPP/Blueprints/Character_Blueprint.Character_Blueprint]
+[2021.12.19-22.33.59:061][291]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonCPP/Blueprints/Character_Blueprint]
+[2021.12.19-22.33.59:072][291]LogSavePackage: Moving '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/Character_Blueprint_Auto14D975EE14BAAA4ED01EBAD9003DECC70.tmp' to '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/Character_Blueprint_Auto1.uasset'
+[2021.12.19-22.33.59:073][291]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonCPP/Blueprints/BT_Enemy] ([1] browsable assets)...
+[2021.12.19-22.33.59:073][291]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonCPP/Blueprints/BT_Enemy]
+[2021.12.19-22.33.59:075][291]LogSavePackage: Moving '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/BT_Enemy_Auto1A5E218B54177734F93D4EE9670E23316.tmp' to '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/BT_Enemy_Auto1.uasset'
+[2021.12.19-22.33.59:076][291]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonCPP/Blueprints/BB_Enemy] ([1] browsable assets)...
+[2021.12.19-22.33.59:076][291]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonCPP/Blueprints/BB_Enemy]
+[2021.12.19-22.33.59:078][291]LogSavePackage: Moving '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/BB_Enemy_Auto182E0D807435526E8387F8B837604AAB8.tmp' to '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/BB_Enemy_Auto1.uasset'
+[2021.12.19-22.33.59:079][291]LogFileHelpers: Auto-saving content packages took 0.084
+[2021.12.19-23.01.37:015][293]LogSlate: Took 0.006442 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.12.19-23.01.44:937][734]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2021.12.19-23.01.46:385][757]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.12.19-23.03.01:991][847]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2021.12.19-23.03.01:992][847]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap' took 0.031
+[2021.12.19-23.03.01:993][847]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter] ([2] browsable assets)...
+[2021.12.19-23.03.02:048][847]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C]
+[2021.12.19-23.03.02:086][847]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2021.12.19-23.03.02:086][847]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter]
+[2021.12.19-23.03.02:108][847]LogSavePackage: Moving '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/ThirdPersonCharacter_Auto260B663C84B374C9F1F3815BE6EDD6AA2.tmp' to '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter_Auto2.uasset'
+[2021.12.19-23.03.02:111][847]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonCPP/Blueprints/Character_Blueprint] ([2] browsable assets)...
+[2021.12.19-23.03.02:150][847]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonCPP/Blueprints/Character_Blueprint.Character_Blueprint]
+[2021.12.19-23.03.02:150][847]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonCPP/Blueprints/Character_Blueprint]
+[2021.12.19-23.03.02:160][847]LogSavePackage: Moving '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/Character_Blueprint_Auto251BAE4D741AF87DB03DB389D9D66D27F.tmp' to '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/Character_Blueprint_Auto2.uasset'
+[2021.12.19-23.03.02:162][847]LogFileHelpers: Auto-saving content packages took 0.169
+[2021.12.19-23.05.47:084][256]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2021.12.19-23.11.06:372][339]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.19-23.11.06:380][339]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.12.19-23.11.06:382][339]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2021.12.19-23.11.06:567][339]LogPlayLevel: [PlayLevel] Compiling Character_Blueprint before play...
+[2021.12.19-23.11.06:616][339]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2021.12.19-23.11.06:617][339]LogPlayLevel: PlayLevel: Blueprint regeneration took 236 ms (2 blueprints)
+[2021.12.19-23.11.06:617][339]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 19, 2021, 7:11:06 AM)
+[2021.12.19-23.11.06:619][339]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.12.19-23.11.06:621][339]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.12.19-23.11.06:621][339]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.12.19-23.11.06:630][339]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008863s)
+[2021.12.19-23.11.06:632][339]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.12.19-23.11.06:632][339]LogPlayLevel: PIE: World Init took: (0.001565s)
+[2021.12.19-23.11.06:632][339]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010843s)
+[2021.12.19-23.11.06:656][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.12.19-23.11.06:657][339]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.12.19-23.11.06:657][339]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.19-23.11.06:657][339]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.19-23.11.06:657][339]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.19-23.11.06:657][339]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.19-23.11.06:657][339]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.19-23.11.06:657][339]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.19-23.11.06:657][339]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.19-23.11.06:658][339]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.19-23.11.06:658][339]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.19-23.11.06:658][339]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.19-23.11.06:658][339]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.19-23.11.06:658][339]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.19-23.11.06:661][339]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.19-23.11.06:661][339]LogAudioMixer: Display: 1: FrontRight
+[2021.12.19-23.11.06:665][339]LogAudioMixer: Display: Using Audio Device Speakers (Dell USB Audio)
+[2021.12.19-23.11.06:666][339]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.19-23.11.06:666][339]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.19-23.11.06:666][339]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.19-23.11.06:666][339]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.19-23.11.06:667][339]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.19-23.11.06:667][339]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.19-23.11.06:668][339]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.19-23.11.06:668][339]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.19-23.11.06:668][339]LogInit: FAudioDevice initialized.
+[2021.12.19-23.11.06:668][339]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonExampleMap'.
+[2021.12.19-23.11.06:692][339]LogLoad: Game class is 'GoeaTechEvalGameMode'
+[2021.12.19-23.11.06:697][339]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.12.19-15.11.06
+[2021.12.19-23.11.06:698][339]LogWorld: Bringing up level for play took: 0.002846
+[2021.12.19-23.11.06:698][339]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.12.19-23.11.06:706][339]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2021.12.19-23.11.06:707][339]PIE: Server logged in
+[2021.12.19-23.11.06:709][339]PIE: Play in editor total start time 0.332 seconds.
+[2021.12.19-23.12.49:696][819]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.19-23.12.49:696][819]LogWorld: BeginTearingDown for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.12.19-23.12.49:697][819]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.19-23.12.49:698][819]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.19-23.12.49:725][819]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.19-23.12.49:919][819]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.19-23.12.49:971][819]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.19-23.12.49:972][819]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.19-23.12.49:975][819]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.19-23.12.49:996][819]LogUObjectHash: Compacting FUObjectHashTables data took   8.56ms
+[2021.12.19-23.12.50:104][820]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.12.19-23.14.45:928][290]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2021.12.19-23.14.45:945][290]LogSavePackage: Moving '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/ThirdPersonExampleMap_Auto3DECA9C2A40D98661739E3E80F365E25C.tmp' to '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/Autosaves/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2021.12.19-23.14.45:947][290]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap' took 0.053
+[2021.12.19-23.14.45:947][290]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.053
+[2021.12.19-23.14.45:948][290]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter] ([2] browsable assets)...
+[2021.12.19-23.14.45:990][290]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2021.12.19-23.14.45:991][290]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter]
+[2021.12.19-23.14.46:010][290]LogSavePackage: Moving '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/ThirdPersonCharacter_Auto30EA136614AA499D4C4344793D2667682.tmp' to '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter_Auto3.uasset'
+[2021.12.19-23.14.46:011][290]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonCPP/Blueprints/Character_Blueprint] ([2] browsable assets)...
+[2021.12.19-23.14.46:051][290]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonCPP/Blueprints/Character_Blueprint.Character_Blueprint]
+[2021.12.19-23.14.46:051][290]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonCPP/Blueprints/Character_Blueprint]
+[2021.12.19-23.14.46:060][290]LogSavePackage: Moving '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/Character_Blueprint_Auto32C6F39944A037E97A3A514B7176BAE7B.tmp' to '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/Character_Blueprint_Auto3.uasset'
+[2021.12.19-23.14.46:061][290]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonCPP/Blueprints/BT_Enemy] ([1] browsable assets)...
+[2021.12.19-23.14.46:061][290]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonCPP/Blueprints/BT_Enemy]
+[2021.12.19-23.14.46:063][290]LogSavePackage: Moving '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/BT_Enemy_Auto3F9D884EB40EF24FF95D0F6A2E02E2573.tmp' to '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/BT_Enemy_Auto3.uasset'
+[2021.12.19-23.14.46:064][290]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonCPP/Blueprints/BB_Enemy] ([1] browsable assets)...
+[2021.12.19-23.14.46:064][290]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonCPP/Blueprints/BB_Enemy]
+[2021.12.19-23.14.46:066][290]LogSavePackage: Moving '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/BB_Enemy_Auto3CA734AB44FA337E5477785B60F6FE12A.tmp' to '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/BB_Enemy_Auto3.uasset'
+[2021.12.19-23.14.46:067][290]LogFileHelpers: Auto-saving content packages took 0.121
+[2021.12.19-23.15.14:155][409]LogRenderer: Reallocating scene render targets to support 1072x608 Format 10 NumSamples 1 (Frame:1).
+[2021.12.19-23.16.45:057][263]LogEditorViewport: Clicking on Actor (LMB): Character_Blueprint_C (Character_Blueprint)
+[2021.12.19-23.16.45:169][263]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (CharacterMesh0)
+[2021.12.19-23.16.53:698][595]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (CharacterMesh0)
+[2021.12.19-23.16.55:047][626]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (CharacterMesh0)
+[2021.12.19-23.16.55:686][642]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2021.12.19-23.16.56:359][656]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ramp_StaticMesh)
+[2021.12.19-23.16.56:951][668]LogEditorViewport: Clicking on Actor (LMB): Character_Blueprint_C (Character_Blueprint)
+[2021.12.19-23.16.57:907][690]Cmd: DELETE
+[2021.12.19-23.16.57:907][690]Cmd: ACTOR DELETE
+[2021.12.19-23.16.57:914][690]LogEditorActor: Deleted Actor: Character_Blueprint_C
+[2021.12.19-23.16.58:009][690]LogUObjectHash: Compacting FUObjectHashTables data took   6.40ms
+[2021.12.19-23.16.58:015][690]LogEditorActor: Deleted 1 Actors (0.107 secs)
+[2021.12.19-23.17.19:330][313]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.12.19-23.17.19:371][313]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2021.12.19-23.17.29:937][726]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.19-23.17.29:955][726]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.12.19-23.17.29:957][726]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2021.12.19-23.17.30:058][726]LogPlayLevel: [PlayLevel] Compiling Character_Blueprint before play...
+[2021.12.19-23.17.30:170][726]LogUObjectHash: Compacting FUObjectHashTables data took   7.32ms
+[2021.12.19-23.17.30:173][726]LogPlayLevel: PlayLevel: Blueprint regeneration took 217 ms (2 blueprints)
+[2021.12.19-23.17.30:173][726]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 19, 2021, 7:17:30 AM)
+[2021.12.19-23.17.30:175][726]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.12.19-23.17.30:192][726]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016420s)
+[2021.12.19-23.17.30:195][726]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.12.19-23.17.30:195][726]LogPlayLevel: PIE: World Init took: (0.003191s)
+[2021.12.19-23.17.30:196][726]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.020239s)
+[2021.12.19-23.17.30:251][726]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2021.12.19-23.17.30:252][726]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.12.19-23.17.30:252][726]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.19-23.17.30:252][726]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.19-23.17.30:252][726]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.19-23.17.30:252][726]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.19-23.17.30:253][726]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.19-23.17.30:253][726]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.19-23.17.30:254][726]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.19-23.17.30:254][726]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.19-23.17.30:255][726]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.19-23.17.30:255][726]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.19-23.17.30:255][726]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.19-23.17.30:255][726]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.19-23.17.30:260][726]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.19-23.17.30:260][726]LogAudioMixer: Display: 1: FrontRight
+[2021.12.19-23.17.30:271][726]LogAudioMixer: Display: Using Audio Device Speakers (Dell USB Audio)
+[2021.12.19-23.17.30:272][726]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.19-23.17.30:272][726]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.19-23.17.30:272][726]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.19-23.17.30:273][726]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.19-23.17.30:273][726]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.19-23.17.30:273][726]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.19-23.17.30:277][726]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.19-23.17.30:277][726]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.19-23.17.30:277][726]LogInit: FAudioDevice initialized.
+[2021.12.19-23.17.30:277][726]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonExampleMap'.
+[2021.12.19-23.17.30:296][726]LogLoad: Game class is 'GoeaTechEvalGameMode'
+[2021.12.19-23.17.30:299][726]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.12.19-15.17.30
+[2021.12.19-23.17.30:300][726]LogWorld: Bringing up level for play took: 0.002657
+[2021.12.19-23.17.30:300][726]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2021.12.19-23.17.30:306][726]PIE: Server logged in
+[2021.12.19-23.17.30:307][726]PIE: Play in editor total start time 0.358 seconds.
+[2021.12.19-23.17.34:387][841]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.19-23.17.34:388][841]LogWorld: BeginTearingDown for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.12.19-23.17.34:389][841]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.19-23.17.34:390][841]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.19-23.17.34:447][841]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.19-23.17.34:468][841]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.19-23.17.34:521][841]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.19-23.17.34:522][841]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.19-23.17.34:525][841]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.19-23.17.34:538][841]LogUObjectHash: Compacting FUObjectHashTables data took   6.80ms
+[2021.12.19-23.17.34:607][842]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.12.19-23.17.37:535][918]LogEditorViewport: Clicking on Actor (LMB): Pawn (Pawn)
+[2021.12.19-23.17.39:374][963]LogEditorViewport: Clicking on Actor (LMB): Pawn (Pawn)
+[2021.12.19-23.17.40:250][986]LogEditorViewport: Clicking on Actor (LMB): Pawn (Pawn)
+[2021.12.19-23.18.11:248][758]LogEditorViewport: Clicking on Actor (LMB): Pawn (Pawn)
+[2021.12.19-23.18.11:976][776]Cmd: DELETE
+[2021.12.19-23.18.11:977][776]Cmd: ACTOR DELETE
+[2021.12.19-23.18.11:981][776]LogEditorActor: Deleted Actor: Pawn
+[2021.12.19-23.18.12:053][776]LogUObjectHash: Compacting FUObjectHashTables data took   6.88ms
+[2021.12.19-23.18.12:059][776]LogEditorActor: Deleted 1 Actors (0.082 secs)
+[2021.12.19-23.18.40:802][505]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.12.19-23.18.40:861][505]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2021.12.19-23.18.57:800][915]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.12.19-23.18.59:988][960]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.19-23.19.00:016][960]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.19-23.19.00:017][960]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 19, 2021, 7:19:00 AM)
+[2021.12.19-23.19.00:017][960]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.12.19-23.19.00:060][960]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043544s)
+[2021.12.19-23.19.00:063][960]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.12.19-23.19.00:064][960]LogPlayLevel: PIE: World Init took: (0.003653s)
+[2021.12.19-23.19.00:065][960]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.048275s)
+[2021.12.19-23.19.00:146][960]LogUObjectHash: Compacting FUObjectHashTables data took   7.72ms
+[2021.12.19-23.19.00:150][960]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.12.19-23.19.00:150][960]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.19-23.19.00:151][960]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.19-23.19.00:151][960]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.19-23.19.00:151][960]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.19-23.19.00:151][960]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.19-23.19.00:151][960]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.19-23.19.00:151][960]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.19-23.19.00:151][960]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.19-23.19.00:152][960]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.19-23.19.00:152][960]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.19-23.19.00:152][960]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.19-23.19.00:152][960]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.19-23.19.00:158][960]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.19-23.19.00:158][960]LogAudioMixer: Display: 1: FrontRight
+[2021.12.19-23.19.00:171][960]LogAudioMixer: Display: Using Audio Device Speakers (Dell USB Audio)
+[2021.12.19-23.19.00:172][960]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.19-23.19.00:172][960]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.19-23.19.00:173][960]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.19-23.19.00:173][960]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.19-23.19.00:174][960]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.19-23.19.00:174][960]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.19-23.19.00:178][960]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.19-23.19.00:179][960]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.19-23.19.00:179][960]LogInit: FAudioDevice initialized.
+[2021.12.19-23.19.00:179][960]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonExampleMap'.
+[2021.12.19-23.19.00:201][960]LogLoad: Game class is 'GoeaTechEvalGameMode'
+[2021.12.19-23.19.00:205][960]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.12.19-15.19.00
+[2021.12.19-23.19.00:206][960]LogWorld: Bringing up level for play took: 0.004564
+[2021.12.19-23.19.00:207][960]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.12.19-23.19.00:214][960]PIE: Server logged in
+[2021.12.19-23.19.00:216][960]PIE: Play in editor total start time 0.212 seconds.
+[2021.12.19-23.19.15:225][395]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.19-23.19.15:226][395]LogWorld: BeginTearingDown for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.12.19-23.19.15:226][395]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.19-23.19.15:227][395]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.19-23.19.15:287][395]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.19-23.19.15:327][395]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.19-23.19.15:378][395]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.19-23.19.15:379][395]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.19-23.19.15:382][395]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.19-23.19.15:394][395]LogUObjectHash: Compacting FUObjectHashTables data took   6.67ms
+[2021.12.19-23.19.15:475][396]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.12.19-23.19.16:640][421]LogEditorViewport: Clicking on Actor (LMB): Character (Character)
+[2021.12.19-23.22.28:483][ 89]LogEditorViewport: Clicking on Actor (LMB): Character (Character)
+[2021.12.19-23.22.28:499][ 89]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (CharacterMesh0)
+[2021.12.19-23.22.42:224][146]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2021.12.19-23.22.42:239][146]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/ThirdPersonCPP/Blueprints/Character_Blueprint2.
+[2021.12.19-23.22.42:239][146]LogActorComponent: UnregisterComponent: (/Game/ThirdPersonCPP/Blueprints/Character_Blueprint2.Default__Character_Blueprint2_C:CollisionCylinder) Not registered. Aborting.
+[2021.12.19-23.22.42:240][146]LogActorComponent: UnregisterComponent: (/Game/ThirdPersonCPP/Blueprints/Character_Blueprint2.Default__Character_Blueprint2_C:CharMoveComp) Not registered. Aborting.
+[2021.12.19-23.22.42:240][146]LogActorComponent: UnregisterComponent: (/Game/ThirdPersonCPP/Blueprints/Character_Blueprint2.Default__Character_Blueprint2_C:CharacterMesh0) Not registered. Aborting.
+[2021.12.19-23.22.42:285][146]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2021.12.19-23.22.42:353][146]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonCPP/Blueprints/Character_Blueprint2.Character_Blueprint2
+[2021.12.19-23.25.06:443][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2021.12.19-23.25.06:462][ 33]LogSavePackage: Moving '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/ThirdPersonExampleMap_Auto4DE3F835D44DE4338994492BC063276E7.tmp' to '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/Autosaves/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_Auto4.umap'
+[2021.12.19-23.25.06:465][ 33]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap' took 0.067
+[2021.12.19-23.25.06:465][ 33]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.067
+[2021.12.19-23.25.06:466][ 33]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter] ([2] browsable assets)...
+[2021.12.19-23.25.06:506][ 33]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2021.12.19-23.25.06:506][ 33]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter]
+[2021.12.19-23.25.06:521][ 33]LogSavePackage: Moving '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/ThirdPersonCharacter_Auto4F768BB1847AE1C23622F8F85726CF087.tmp' to '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter_Auto4.uasset'
+[2021.12.19-23.25.06:522][ 33]LogFileHelpers: Auto-saving content packages took 0.058
+[2021.12.19-23.34.28:351][711]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonCPP/Blueprints/BTTask_BlueprintBase_New.BTTask_BlueprintBase_New
+[2021.12.19-23.34.28:630][711]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/ThirdPersonCPP/Blueprints/BTTask_BlueprintBase_New.
+[2021.12.19-23.38.11:240][792]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UBlackboardComponent::GetValueAsVector' [The specified module could not be found.]
+[2021.12.19-23.38.45:844][829]LogSlate: Took 0.008944 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.12.19-23.38.58:269][565]BlueprintLog: New page: Compile BTTask_BlueprintBase_New
+[2021.12.19-23.38.58:326][565]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2021.12.19-23.39.24:161][965]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2021.12.19-23.39.24:161][965]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap' took 0.043
+[2021.12.19-23.39.24:162][965]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonCPP/Blueprints/BT_Enemy] ([1] browsable assets)...
+[2021.12.19-23.39.24:162][965]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonCPP/Blueprints/BT_Enemy]
+[2021.12.19-23.39.24:164][965]LogSavePackage: Moving '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/BT_Enemy_Auto59CF7A0B846B9FF2ECD71E19C1CDE0EC8.tmp' to '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/BT_Enemy_Auto5.uasset'
+[2021.12.19-23.39.24:165][965]LogFileHelpers: Auto-saving content packages took 0.004
+[2021.12.19-23.42.07:554][717]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.12.19-23.42.07:576][717]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2021.12.19-23.49.01:906][628]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonCPP/Blueprints/BTTask_BlueprintBase_New1.BTTask_BlueprintBase_New1
+[2021.12.19-23.49.02:260][628]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/ThirdPersonCPP/Blueprints/BTTask_BlueprintBase_New1.
+[2021.12.19-23.49.06:992][912]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.12.19-23.49.06:993][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.19-23.50.02:689][647]LogContentBrowser: Attempting asset rename: BTTask_BlueprintBase_New -> findPlayer
+[2021.12.19-23.50.02:825][647]LogMetaData: Removing '/Game/ThirdPersonCPP/Blueprints/findPlayer.SKEL_findPlayer_C' ref from Metadata '/Game/ThirdPersonCPP/Blueprints/BTTask_BlueprintBase_New.PackageMetaData'
+[2021.12.19-23.50.02:825][647]LogMetaData: Removing '/Game/ThirdPersonCPP/Blueprints/findPlayer.findPlayer_C' ref from Metadata '/Game/ThirdPersonCPP/Blueprints/BTTask_BlueprintBase_New.PackageMetaData'
+[2021.12.19-23.50.02:825][647]LogMetaData: Removing '/Game/ThirdPersonCPP/Blueprints/findPlayer.SKEL_findPlayer_C:ReceiveExecuteAI' ref from Metadata '/Game/ThirdPersonCPP/Blueprints/BTTask_BlueprintBase_New.PackageMetaData'
+[2021.12.19-23.50.02:825][647]LogMetaData: Removing '/Game/ThirdPersonCPP/Blueprints/findPlayer.findPlayer_C:ReceiveExecuteAI' ref from Metadata '/Game/ThirdPersonCPP/Blueprints/BTTask_BlueprintBase_New.PackageMetaData'
+[2021.12.19-23.50.02:883][647]LogSavePackage: Moving '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/findPlayerEBD37B1A4AA37DFEA186BC876A3A1EBA.tmp' to '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Content/ThirdPersonCPP/Blueprints/findPlayer.uasset'
+[2021.12.19-23.50.03:084][647]LogUObjectHash: Compacting FUObjectHashTables data took   6.42ms
+[2021.12.19-23.50.03:159][647]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2021.12.19-23.50.03:208][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2021.12.19-23.50.03:257][647]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/ThirdPersonCPP/Blueprints/findPlayer.
+[2021.12.19-23.50.03:265][647]AssetCheck: New page: Asset Save: findPlayer
+[2021.12.19-23.50.03:266][647]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonCPP/Blueprints/findPlayer.findPlayer
+[2021.12.19-23.50.50:666][571]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2021.12.19-23.50.50:684][571]LogSavePackage: Moving '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/ThirdPersonExampleMap_Auto679211F7D48BE1D48DA7FA9AEBBA3C48C.tmp' to '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/Autosaves/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_Auto6.umap'
+[2021.12.19-23.50.50:687][571]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap' took 0.064
+[2021.12.19-23.50.50:687][571]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.064
+[2021.12.19-23.50.50:688][571]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter] ([2] browsable assets)...
+[2021.12.19-23.50.50:716][571]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2021.12.19-23.50.50:716][571]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter]
+[2021.12.19-23.50.50:732][571]LogSavePackage: Moving '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/ThirdPersonCharacter_Auto644A28B154BAF877464CA98A70C9CFF9E.tmp' to '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter_Auto6.uasset'
+[2021.12.19-23.50.50:734][571]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonCPP/Blueprints/Character_Blueprint] ([2] browsable assets)...
+[2021.12.19-23.50.50:760][571]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonCPP/Blueprints/Character_Blueprint.Character_Blueprint]
+[2021.12.19-23.50.50:761][571]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonCPP/Blueprints/Character_Blueprint]
+[2021.12.19-23.50.50:769][571]LogSavePackage: Moving '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/Character_Blueprint_Auto6A8BCAD864297DB93A524FAB150809CB9.tmp' to '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/Character_Blueprint_Auto6.uasset'
+[2021.12.19-23.50.50:770][571]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonCPP/Blueprints/BT_Enemy] ([1] browsable assets)...
+[2021.12.19-23.50.50:770][571]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonCPP/Blueprints/BT_Enemy]
+[2021.12.19-23.50.50:773][571]LogSavePackage: Moving '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/BT_Enemy_Auto6C7E0938348C66BAC74796599054A6C12.tmp' to '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/BT_Enemy_Auto6.uasset'
+[2021.12.19-23.50.50:774][571]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonCPP/Blueprints/BB_Enemy] ([1] browsable assets)...
+[2021.12.19-23.50.50:775][571]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonCPP/Blueprints/BB_Enemy]
+[2021.12.19-23.50.50:776][571]LogSavePackage: Moving '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/BB_Enemy_Auto6BEB92AFC471459834268598CE30CB473.tmp' to '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/BB_Enemy_Auto6.uasset'
+[2021.12.19-23.50.50:778][571]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonCPP/Blueprints/findPlayer] ([2] browsable assets)...
+[2021.12.19-23.50.50:778][571]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonCPP/Blueprints/findPlayer]
+[2021.12.19-23.50.50:781][571]LogSavePackage: Moving '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/findPlayer_Auto60100B4A1425A1ED907A0278CE1890183.tmp' to '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/findPlayer_Auto6.uasset'
+[2021.12.19-23.50.50:782][571]LogFileHelpers: Auto-saving content packages took 0.095
+[2021.12.19-23.59.47:792][591]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.12.19-23.59.47:818][591]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2021.12.20-00.01.01:134][936]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2021.12.20-00.01.01:136][936]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap' took 0.044
+[2021.12.20-00.01.01:136][936]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonCPP/Blueprints/findPlayer] ([2] browsable assets)...
+[2021.12.20-00.01.01:136][936]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonCPP/Blueprints/findPlayer]
+[2021.12.20-00.01.01:141][936]LogSavePackage: Moving '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/findPlayer_Auto7570619FD45E4E08044EFE1B76895FA7A.tmp' to '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/findPlayer_Auto7.uasset'
+[2021.12.20-00.01.01:142][936]LogFileHelpers: Auto-saving content packages took 0.006
+[2021.12.20-00.05.36:573][173]LogSlate: Window 'Delete Variable' being destroyed
+[2021.12.20-00.06.06:811][963]BlueprintLog: New page: Compile findPlayer
+[2021.12.20-00.06.06:814][963]LogBlueprint: Error: [AssetLog] C:\Users\natha\Desktop\Homework\GoeaTechnicalEvaluation_ThirdPerson\GoeaTechnicalEvaluation_ThirdPerson\GoeaTechEval\Content\ThirdPersonCPP\Blueprints\findPlayer.uasset: [Compiler] The current value of the ' Key ' pin is invalid: 'Key' in action 'Set Blackboard Value as Object' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2021.12.20-00.06.06:882][963]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2021.12.20-00.06.06:924][963]LogSlate: Took 0.013598 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.12.20-00.11.34:156][344]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2021.12.20-00.11.34:157][344]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap' took 0.053
+[2021.12.20-00.11.34:157][344]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonCPP/Blueprints/findPlayer] ([2] browsable assets)...
+[2021.12.20-00.11.34:157][344]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonCPP/Blueprints/findPlayer]
+[2021.12.20-00.11.34:161][344]LogSavePackage: Moving '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/findPlayer_Auto81647098E4E780FB03355B39B6E710E4F.tmp' to '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/findPlayer_Auto8.uasset'
+[2021.12.20-00.11.34:162][344]LogFileHelpers: Auto-saving content packages took 0.006
+[2021.12.20-01.58.56:341][581]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2021.12.20-01.58.56:358][581]LogSavePackage: Moving '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/ThirdPersonExampleMap1AB55CFC464BA08D293CE1972B1B295D.tmp' to '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2021.12.20-01.58.56:503][581]LogSavePackage: Moving '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/ThirdPersonExampleMap_BuiltData0A73C53A4251CF1943B863BE036A2D12.tmp' to '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.12.20-01.58.56:516][581]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.20-01.58.56:516][581]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.12.20-01.58.56:516][581]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.12.20-01.58.58:065][640]LogSavePackage: Moving '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/BT_Enemy611188654B36C7E9678EB39438C3DC64.tmp' to '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Content/ThirdPersonCPP/Blueprints/BT_Enemy.uasset'
+[2021.12.20-01.58.58:067][640]LogSavePackage: Moving '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/BB_Enemy47D174F44AE4F9096D989284EAA8E909.tmp' to '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Content/ThirdPersonCPP/Blueprints/BB_Enemy.uasset'
+[2021.12.20-01.58.58:088][640]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.20-01.58.58:088][640]LogContentValidation: Display: Validating BlackboardData /Game/ThirdPersonCPP/Blueprints/BB_Enemy.BB_Enemy
+[2021.12.20-01.58.58:089][640]LogContentValidation: Display: Validating BehaviorTree /Game/ThirdPersonCPP/Blueprints/BT_Enemy.BT_Enemy
+[2021.12.20-01.58.59:949][748]LogSavePackage: Moving '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/Enemy_ControllerCF19F0C24D0AE820E97B16971997DB73.tmp' to '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Content/ThirdPersonCPP/Blueprints/Enemy_Controller.uasset'
+[2021.12.20-01.58.59:968][748]AssetCheck: New page: Asset Save: Enemy_Controller
+[2021.12.20-01.58.59:968][748]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonCPP/Blueprints/Enemy_Controller.Enemy_Controller
+[2021.12.20-01.59.02:450][846]LogSavePackage: Moving '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/Character_Blueprint470A57C143BAE249B07EF0A7518F3A6F.tmp' to '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Content/ThirdPersonCPP/Blueprints/Character_Blueprint.uasset'
+[2021.12.20-01.59.02:468][846]AssetCheck: New page: Asset Save: Character_Blueprint
+[2021.12.20-01.59.02:468][846]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonCPP/Blueprints/Character_Blueprint.Character_Blueprint
+[2021.12.20-01.59.04:137][913]LogSavePackage: Moving '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/ThirdPersonCharacterFAA4E6534F3B8D6FB27EF1B8EB790525.tmp' to '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.12.20-01.59.04:150][913]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.12.20-01.59.04:151][913]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.12.20-01.59.06:052][990]LogSavePackage: Moving '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/Character_Blueprint23E99DF6D49F755E1552F9D890AD65590.tmp' to '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Content/ThirdPersonCPP/Blueprints/Character_Blueprint2.uasset'
+[2021.12.20-01.59.06:068][990]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/ThirdPersonCPP/Blueprints/Character_Blueprint2.
+[2021.12.20-01.59.06:078][990]AssetCheck: New page: Asset Save: Character_Blueprint2
+[2021.12.20-01.59.06:078][990]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonCPP/Blueprints/Character_Blueprint2.Character_Blueprint2
+[2021.12.20-01.59.07:534][ 46]LogSavePackage: Moving '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/findPlayer52144DB841679D1E9A3F349F1FFCB9DA.tmp' to '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Content/ThirdPersonCPP/Blueprints/findPlayer.uasset'
+[2021.12.20-01.59.07:549][ 46]AssetCheck: New page: Asset Save: findPlayer
+[2021.12.20-01.59.07:549][ 46]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonCPP/Blueprints/findPlayer.findPlayer
+[2021.12.20-01.59.09:067][131]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2021.12.20-01.59.10:510][131]LogSlate: Window 'Save Content' being destroyed
+[2021.12.20-01.59.10:548][131]LogSavePackage: Moving '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Saved/BTTask_BlueprintBase_New1733B2E204440FDBBF0D2449FA822D104.tmp' to '../../../../../../Users/natha/Desktop/Homework/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechnicalEvaluation_ThirdPerson/GoeaTechEval/Content/ThirdPersonCPP/Blueprints/BTTask_BlueprintBase_New1.uasset'
+[2021.12.20-01.59.10:579][131]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.12.20-01.59.10:579][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.20-01.59.10:644][131]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.12.20-01.59.10:644][131]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.12.20-01.59.10:644][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.20-01.59.10:712][131]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.12.20-01.59.10:712][131]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.12.20-01.59.10:712][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.20-01.59.10:784][131]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.12.20-01.59.10:785][131]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.12.20-01.59.10:785][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.20-01.59.10:841][131]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.12.20-01.59.10:841][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.20-01.59.10:882][131]LogSlate: Window 'GoeaTechEval - Unreal Editor' being destroyed
+[2021.12.20-01.59.11:062][131]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/ThirdPersonCPP/Blueprints/BTTask_BlueprintBase_New1.
+[2021.12.20-01.59.11:070][131]AssetCheck: New page: Asset Save: BTTask_BlueprintBase_New1
+[2021.12.20-01.59.11:070][131]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonCPP/Blueprints/BTTask_BlueprintBase_New1.BTTask_BlueprintBase_New1
+[2021.12.20-01.59.11:077][132]Cmd: QUIT_EDITOR
+[2021.12.20-01.59.11:077][132]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.12.20-01.59.11:081][132]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.12.20-01.59.11:113][132]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.12.20-01.59.11:114][132]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.12.20-01.59.11:114][132]LogAudio: Display: Audio Device unregistered from world 'ThirdPersonExampleMap'.
+[2021.12.20-01.59.11:114][132]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.20-01.59.11:117][132]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.20-01.59.11:129][132]LogAudio: Display: Audio Device Manager Shutdown
+[2021.12.20-01.59.11:130][132]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.20-01.59.11:137][132]LogExit: Preparing to exit.
+[2021.12.20-01.59.11:207][132]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2021.12.20-01.59.11:995][132]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.12.20-01.59.11:999][132]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.12.20-01.59.12:002][132]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.12.20-01.59.12:005][132]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.12.20-01.59.12:005][132]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.12.20-01.59.12:005][132]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.12.20-01.59.12:006][132]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.12.20-01.59.12:006][132]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.12.20-01.59.12:006][132]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.12.20-01.59.12:006][132]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.12.20-01.59.12:006][132]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.12.20-01.59.12:009][132]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.12.20-01.59.12:013][132]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.12.20-01.59.12:016][132]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.12.20-01.59.12:019][132]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.12.20-01.59.12:022][132]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.12.20-01.59.12:079][132]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.12.20-01.59.12:086][132]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.12.20-01.59.12:086][132]LogExit: Editor shut down
+[2021.12.20-01.59.12:087][132]LogExit: Transaction tracking system shut down
+[2021.12.20-01.59.12:309][132]LogExit: Object subsystem successfully closed.
+[2021.12.20-01.59.12:332][132]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.12.20-01.59.12:332][132]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2021.12.20-01.59.12:332][132]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2021.12.20-01.59.12:333][132]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 2457.60 MB (2.40 GB) budget. Usage: 0.00%
+[2021.12.20-01.59.12:333][132]LogShaderCompilers: Display: ================================================
+[2021.12.20-01.59.12:349][132]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.12.20-01.59.12:372][132]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (878)
+[2021.12.20-01.59.12:372][132]LogModuleManager: Shutting down and abandoning module Voice (876)
+[2021.12.20-01.59.12:373][132]LogModuleManager: Shutting down and abandoning module BlueprintGraph (874)
+[2021.12.20-01.59.12:373][132]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (872)
+[2021.12.20-01.59.12:373][132]LogModuleManager: Shutting down and abandoning module SceneOutliner (870)
+[2021.12.20-01.59.12:373][132]LogModuleManager: Shutting down and abandoning module AddContentDialog (868)
+[2021.12.20-01.59.12:373][132]LogModuleManager: Shutting down and abandoning module WidgetCarousel (867)
+[2021.12.20-01.59.12:373][132]LogModuleManager: Shutting down and abandoning module EditorWidgets (864)
+[2021.12.20-01.59.12:373][132]LogModuleManager: Shutting down and abandoning module StatsViewer (862)
+[2021.12.20-01.59.12:374][132]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (860)
+[2021.12.20-01.59.12:374][132]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (858)
+[2021.12.20-01.59.12:374][132]LogModuleManager: Shutting down and abandoning module AutomationWorker (856)
+[2021.12.20-01.59.12:375][132]LogModuleManager: Shutting down and abandoning module SteamVREditor (854)
+[2021.12.20-01.59.12:375][132]LogModuleManager: Shutting down and abandoning module OculusMR (852)
+[2021.12.20-01.59.12:375][132]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (850)
+[2021.12.20-01.59.12:375][132]LogModuleManager: Shutting down and abandoning module TakeRecorder (849)
+[2021.12.20-01.59.12:375][132]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (846)
+[2021.12.20-01.59.12:375][132]LogModuleManager: Shutting down and abandoning module TakesCore (844)
+[2021.12.20-01.59.12:375][132]LogModuleManager: Shutting down and abandoning module OpenXRInput (842)
+[2021.12.20-01.59.12:375][132]LogModuleManager: Shutting down and abandoning module GooglePADEditor (840)
+[2021.12.20-01.59.12:375][132]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (838)
+[2021.12.20-01.59.12:375][132]LogModuleManager: Shutting down and abandoning module TextureAlignMode (836)
+[2021.12.20-01.59.12:375][132]LogModuleManager: Shutting down and abandoning module BspMode (834)
+[2021.12.20-01.59.12:375][132]LogModuleManager: Shutting down and abandoning module GeometryMode (832)
+[2021.12.20-01.59.12:375][132]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (830)
+[2021.12.20-01.59.12:375][132]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (828)
+[2021.12.20-01.59.12:375][132]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (826)
+[2021.12.20-01.59.12:375][132]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (824)
+[2021.12.20-01.59.12:376][132]LogModuleManager: Shutting down and abandoning module PlanarCut (822)
+[2021.12.20-01.59.12:376][132]LogModuleManager: Shutting down and abandoning module CharacterAI (820)
+[2021.12.20-01.59.12:376][132]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (818)
+[2021.12.20-01.59.12:376][132]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (816)
+[2021.12.20-01.59.12:376][132]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (814)
+[2021.12.20-01.59.12:376][132]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (812)
+[2021.12.20-01.59.12:376][132]LogModuleManager: Shutting down and abandoning module WebMMedia (810)
+[2021.12.20-01.59.12:376][132]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (808)
+[2021.12.20-01.59.12:376][132]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (806)
+[2021.12.20-01.59.12:376][132]LogModuleManager: Shutting down and abandoning module SequenceRecorder (805)
+[2021.12.20-01.59.12:376][132]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (802)
+[2021.12.20-01.59.12:376][132]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (800)
+[2021.12.20-01.59.12:376][132]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (798)
+[2021.12.20-01.59.12:376][132]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (796)
+[2021.12.20-01.59.12:376][132]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (794)
+[2021.12.20-01.59.12:376][132]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (792)
+[2021.12.20-01.59.12:377][132]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (790)
+[2021.12.20-01.59.12:377][132]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (788)
+[2021.12.20-01.59.12:377][132]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (786)
+[2021.12.20-01.59.12:377][132]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (784)
+[2021.12.20-01.59.12:377][132]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (782)
+[2021.12.20-01.59.12:377][132]LogModuleManager: Shutting down and abandoning module SmartSnapping (780)
+[2021.12.20-01.59.12:377][132]LogModuleManager: Shutting down and abandoning module SessionServices (778)
+[2021.12.20-01.59.12:377][132]LogModuleManager: Shutting down and abandoning module MeshPaint (776)
+[2021.12.20-01.59.12:377][132]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (774)
+[2021.12.20-01.59.12:377][132]LogModuleManager: Shutting down and abandoning module FoliageEdit (772)
+[2021.12.20-01.59.12:377][132]LogModuleManager: Shutting down and abandoning module LandscapeEditor (770)
+[2021.12.20-01.59.12:377][132]LogModuleManager: Shutting down and abandoning module MeshPaintMode (768)
+[2021.12.20-01.59.12:377][132]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (766)
+[2021.12.20-01.59.12:377][132]LogModuleManager: Shutting down and abandoning module ActorPickerMode (764)
+[2021.12.20-01.59.12:377][132]LogModuleManager: Shutting down and abandoning module PlacementMode (762)
+[2021.12.20-01.59.12:377][132]LogModuleManager: Shutting down and abandoning module ViewportSnapping (760)
+[2021.12.20-01.59.12:377][132]LogModuleManager: Shutting down and abandoning module ViewportInteraction (758)
+[2021.12.20-01.59.12:377][132]LogModuleManager: Shutting down and abandoning module ClothPainter (756)
+[2021.12.20-01.59.12:377][132]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (755)
+[2021.12.20-01.59.12:377][132]LogModuleManager: Shutting down and abandoning module LogVisualizer (752)
+[2021.12.20-01.59.12:377][132]LogModuleManager: Shutting down and abandoning module IntroTutorials (750)
+[2021.12.20-01.59.12:377][132]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (749)
+[2021.12.20-01.59.12:378][132]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (746)
+[2021.12.20-01.59.12:378][132]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (744)
+[2021.12.20-01.59.12:378][132]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (742)
+[2021.12.20-01.59.12:378][132]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (741)

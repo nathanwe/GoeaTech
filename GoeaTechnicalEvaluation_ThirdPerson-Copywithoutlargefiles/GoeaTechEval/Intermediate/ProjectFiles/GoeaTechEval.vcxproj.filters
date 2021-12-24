@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\GoeaTechEval.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{CF21CD55-F184-4A2D-906A-62E425AD7475}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GoeaTechEval.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\GoeaTechEvalEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{3E53AECB-F3B9-4E80-B097-1360C5666DEF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\GoeaTechEval">
+      <UniqueIdentifier>{30812D49-9091-4B29-A745-76FC2372D873}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GoeaTechEval\GoeaTechEval.Build.cs">
+      <Filter>Source\GoeaTechEval</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\GoeaTechEval\GoeaTechEval.cpp">
+      <Filter>Source\GoeaTechEval</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GoeaTechEval\GoeaTechEval.h">
+      <Filter>Source\GoeaTechEval</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GoeaTechEval\GoeaTechEvalCharacter.cpp">
+      <Filter>Source\GoeaTechEval</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GoeaTechEval\GoeaTechEvalCharacter.h">
+      <Filter>Source\GoeaTechEval</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GoeaTechEval\GoeaTechEvalGameMode.cpp">
+      <Filter>Source\GoeaTechEval</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GoeaTechEval\GoeaTechEvalGameMode.h">
+      <Filter>Source\GoeaTechEval</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
